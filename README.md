@@ -8,14 +8,16 @@ ways to install rust and cargo: Windows -> https://rustup.rs/# | Linux -> do the
 
 when Rust is instaleted, run "cargo install rust_crawler" on the command line to have the application.
 
-*If not work try to use rustup after the instalation and follow the process on screen*
-====================================================================================================================================================================
-
+Other Ways.
+==========
 If you prefer to clone the repository or if the above dosen't work, just clone the project, go to the path: "Rust-Crawler/rust_crawler/src" and run the command "cargo run".
 
 *Beware that you need Rust and cargo instaleted*
+
+*If not work try to use rustup after the instalation and follow the process on screen*
 
 Thank you.
 
 
 Application created with the help of the following source: https://rolisz.ro/2020/03/01/web-crawler-in-rust/
+
