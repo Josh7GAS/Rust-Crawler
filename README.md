@@ -1,2 +1,19 @@
 # Rust-Crawler
 Is a Crawler made in rust
+To have it you need to download rust and cargo.
+
+Rust is the language and Cargo is the package-manager for rust programs.
+
+ways to install rust and cargo: Windows -> https://rustup.rs/# | Linux -> do the following command "curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh"
+
+when Rust is instaleted, run "cargo install rust_crawler" on the command line to have the application.
+
+If not work try the rustup.
+====================================================================================================================================================================
+
+If you prefer to clone the repository or if the above dosen't work, just clone the project, go to the path: "Rust-Crawler/rust_crawler/src" and run the command "cargo run".
+
+Thank you.
+
+
+Application created with the help of the following source: https://rolisz.ro/2020/03/01/web-crawler-in-rust/
